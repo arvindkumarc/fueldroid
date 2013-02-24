@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lint>
+    <issue id="IconDensities" severity="ignore"/>
+    <issue id="ContentDescription" severity="ignore"/>
+    <issue id="Overdraw" severity="ignore"/>
+    <issue id="IconLocation" severity="ignore"/>
+    <issue id="IconDipSize" severity="ignore"/>
+    <issue id="IconDuplicatesConfig" severity="ignore"/>
+    <issue id="IconMissingDensityFolder" severity="ignore"/>
+    <issue id="SetJavaScriptEnabled" severity="ignore"/>
+    <issue id="OldTargetApi">
+        <ignore path="AndroidManifest.xml"/>
+    </issue>
+    <issue id="MissingRegistered">
+        <ignore path="AndroidManifest.xml"/>
+    </issue>
+</lint>
